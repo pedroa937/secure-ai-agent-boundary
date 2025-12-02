@@ -8,3 +8,4 @@ Notes and usage details for secure-ai-agent-boundary.
 - link the usage section
 - clarify the setup steps
 - add a note about the defaults
+- add a note about the defaults
